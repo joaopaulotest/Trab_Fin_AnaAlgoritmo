@@ -40,6 +40,6 @@ O algoritmo utiliza um array memo de tamanho n+1 para armazenar os resultados do
 Portanto, a complexidade de espaço é O(n) (para o array memo), mas considerando a pilha de chamadas recursivas, a complexidade total de espaço é O(n).
 
 Resumo das Complexidades
-Algoritmo			       Complexidade de Tempo	Complexidade de Espaço
-Iterativo			         O(n^2)				      O(n)
-Recursivo com Memoização     O(n^2)				      O(n)
+Algoritmo			             Complexidade de Tempo	       Complexidade de Espaço
+Iterativo			                O(n^2)				                   O(n)
+Recursivo com Memoização    O(n^2)				                   O(n)
