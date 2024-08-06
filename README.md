@@ -41,6 +41,5 @@ Portanto, a complexidade de espaço é O(n) (para o array memo), mas considerand
 
 Resumo das Complexidades
 Algoritmo			       Complexidade de Tempo	Complexidade de Espaço
-Iterativo			        O(n^2)				    O(n)
-Recursivo com Memoização	O(n^2)				    O(n)
-
+Iterativo			         O(n^2)				      O(n)
+Recursivo com Memoização     O(n^2)				      O(n)
