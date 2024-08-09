@@ -8,7 +8,7 @@ def generate_sorted_array(n):
         raise ValueError("O tamanho do vetor deve ser maior que 0.")
 
     # Gera um array com valores aleatórios e ordena
-    array = [random.randint(1, 100) for _ in range(n)]
+    array = [random.randint(1, 1000) for _ in range(n)]
     array.sort()
     return array
 
