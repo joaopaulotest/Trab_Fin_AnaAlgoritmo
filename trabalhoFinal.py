@@ -70,7 +70,7 @@ def measure_time(func, *args, repetitions=10):
 # Função principal para executar os testes e plotar o gráfico
 if __name__ == "__main__":
     # Define os tamanhos das barras que serão testados
-    bars = [1, 10, 20, 30]
+    bars = [1, 10, 20, 30, 60, 120, 240, 480]
 
     # Gera os valores para as barras de acordo com o maior tamanho de barra
     prices = generate_sorted_array(bars[-1])
