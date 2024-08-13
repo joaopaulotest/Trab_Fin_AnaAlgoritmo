@@ -43,3 +43,5 @@ Resumo das Complexidades
 Algoritmo			       Complexidade de Tempo	Complexidade de Espaço
 Iterativo			         Θ(n^2)				      Θ(n)
 Recursivo com Memoização     Θ(n^2)				      Θ(n)
+
+![Figure_1](https://github.com/user-attachments/assets/fbc5a492-89d7-4eb2-8a02-f0027e3458c5)
